@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋
+Meu nome é José Carlos e muitos me chamam de JC ou de Zé. Trabalho com dados há 9 anos e aqui irei concentrar meus projetos de estudo. Estou graduando em Ciência da Computação e sou pós graduado em Engenharia de dados e, que é a área que venho me desenvolvendo nos últimos dois anos. Antes disso trabalhei no contexto de Dados por muitos anos, e tive a oportunidade de atuar criando Dashboards em Power BI e Excel, bem como modelar Data Marts em SQL Server e criar pipelines de ETL. Atualmente foco é desenvolver para Engenharia/Analytics, e uso como tecnologias: Airflow, Python, Pyspark, Docker, Terraform, Kubernetes, AWS, AZURE e GCP e o indispensável SQL, dentre outras que tive pouco contato, como DBT e SNOWFLAKE.
+Fique a vontade pra me chamar para trocar ideias sobre dados!
 
 <!--
 **josecarlos-dataengineer/josecarlos-dataengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
