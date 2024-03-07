@@ -1,6 +1,11 @@
 ### Olá 👋
 Meu nome é José Carlos e muitos me chamam de JC ou de Zé. Trabalho com dados há 9 anos e aqui irei concentrar meus projetos de estudo. Estou graduando em Ciência da Computação e sou pós graduado em Engenharia de dados e, que é a área que venho me desenvolvendo nos últimos dois anos. Antes disso trabalhei no contexto de Dados por muitos anos, e tive a oportunidade de atuar criando Dashboards em Power BI e Excel, bem como modelar Data Marts em SQL Server e criar pipelines de ETL. Atualmente estou focado em desenvolver soluções para Engenharia/Analytics, e uso como tecnologias: Airflow, Python, Pyspark, Docker, Terraform, Kubernetes, AWS, AZURE e GCP e o indispensável SQL, dentre outras que tive pouco contato, como DBT e SNOWFLAKE.
-Fique a vontade pra me chamar para trocar ideias sobre dados!
+Fique a vontade pra me chamar para trocar ideias sobre dados! <br>
+
+Nos útimos dias tenho trabalhado em um repositório que explora dados das empresas listadas na bolsa de valores. A ideia é coletar informações de fontes diversas e apresentar insights com base nos dados coletados. [Dados Econômicos](https://github.com/josecarlos-dataengineer/DataLakehouse_Dados_Economicos).
+A primeira exploração que fiz, foi análise de crescimento de receita nos últimos 5 anos. Abaixo a figura mostra alguns padrões interessantes que mostram o crescimento de receita e também a nota no Reclame Aqui. <br>
+![Power BI](https://github.com/josecarlos-dataengineer/DataLakehouse_Dados_Economicos/tree/main/SQL/imagens/primeira_analise.png)
+Os dados apresentados vêm dos portais dados.cvm.gov.br, fundamentus.com.br e fundamentei.com
 
 <!--
 **josecarlos-dataengineer/josecarlos-dataengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
