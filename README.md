@@ -5,6 +5,8 @@ Fique a vontade pra me chamar para trocar ideias sobre dados! <br>
 Nos útimos dias tenho trabalhado em um repositório que explora dados das empresas listadas na bolsa de valores. A ideia é coletar informações de fontes diversas e apresentar insights com base nos dados coletados. [Dados Econômicos](https://github.com/josecarlos-dataengineer/DataLakehouse_Dados_Economicos).
 A primeira exploração que fiz, foi análise de crescimento de receita nos últimos 5 anos. Abaixo a figura mostra alguns padrões interessantes que mostram o crescimento de receita e também a nota no Reclame Aqui. <br>
 
+![PowerBI]([https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/images/Skills.PNG](https://github.com/josecarlos-dataengineer/DataLakehouse_Dados_Economicos/blob/main/SQL/imagens/primeira_analise.png))
+
 ### Hard Skilss
 ![Skills](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/images/Skills.PNG)
 
