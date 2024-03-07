@@ -12,6 +12,9 @@ Essa primeira análise mostrou:
 * No gráfico de dispersão, pode-se notar que o crescimento máximo no eixo X é 60%, e isso aconetece porque estão apresentadas as empresas que possuem nota maior ou igual zero. Muitas empresas cresceram em receita acima de 60%, mas não possuem nota no reclame aqui.
 * No filtro de segmento de listagem consta 'na' para alguns casos, e isso acontece porque o left join entre a tabela que tem todos os ticker e a tabela que tem os segmentos não encontrou relacionamento com a chave cnpj. Para este caso, buscarei uma fonte complemetar ou mais completa.
 
+A arquitetura dessa análise é apresentada abaixo: <br>
+![arquitetura]([https://github.com/josecarlos-dataengineer/DataLakehouse_Dados_Economicos/blob/main/SQL/imagens/primeira_analise.png](https://github.com/josecarlos-dataengineer/DataLakehouse_Dados_Economicos/blob/main/imagens/arquitetura_an%C3%A1lise.PNG)) <br>
+
 ### Tecnologias que conheço.
 ![Skills](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/images/Skills.PNG)
 
