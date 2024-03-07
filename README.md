@@ -9,8 +9,10 @@ A primeira exploração que fiz, foi análise de crescimento de receita nos últ
 
 Os dados apresentados vêm dos portais dados.cvm.gov.br, fundamentus.com.br e fundamentei.com
 
-### Hard Skilss
+### Tecnologias que conheço.
 ![Skills](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/images/Skills.PNG)
+
+
 
 
 <!--
