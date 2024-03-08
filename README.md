@@ -15,6 +15,9 @@ Essa primeira análise mostrou:
 A arquitetura dessa análise é apresentada abaixo: <br>
 ![arquitetura](https://github.com/josecarlos-dataengineer/DataLakehouse_Dados_Economicos/blob/main/imagens/arquitetura_an%C3%A1lise.PNG) <br>
 
+### Currículo
+[Currículo](https://github.com/josecarlos-dataengineer/index/blob/main/docs/curriculo%20Jos%C3%A9%20Carlos%20Mar%C3%A7o%20Analista%20de%20banco%20de%20dados%202024.pdf)
+
 ### Tecnologias que conheço.
 ![Skills](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/images/Skills.PNG)
 
